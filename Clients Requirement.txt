@@ -1,0 +1,18 @@
+Name: LCO
+About: Amazing Basketball Tournament
+
+Tagline: Go fight for it team.
+
+
+Website:
+Home : Nice landing section, maybe some animation.
+About us section: Use images and maybe some texts
+Tournament: Big Tournament coming soon
+Team: Team section with photos and names. 5 team members
+Video: Use this video somewhere in the website
+FAQ: 4 FaQ
+Contact US: Mobile: +91999999999
+Address: LCO Basketball Ground,
+55 - Fictional Homes, Fictional Road
+Near Fictional Lake. 
+India
