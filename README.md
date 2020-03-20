@@ -1,4 +1,7 @@
 # LCO 
+## [Check this Video](https://youtu.be/hqvGOPB0KmQ)
+
+This video explains more detail about this competition.
 
 [![N|Solid](https://cdn.provesrc.com/icon.gif)](https://courses.learncodeonline.in)
 
